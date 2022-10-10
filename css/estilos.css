@@ -1,0 +1,33 @@
+.fondo{
+    background-color: black;
+}
+
+.white{
+    text-decoration: white;
+}
+
+.footer{
+    align-self: flex-end;
+    background-color: black;
+    color: white;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+}
+
+.margen{
+    margin-top: 0%;
+}
+
+.fondo2{
+    background-color: black;
+}
+
+.fondo2{
+    background-image: url(../images/uncharted.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.links{
+    text-decoration: none;
+}
